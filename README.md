@@ -25,7 +25,11 @@ It can supplement existing training programs or serve as a standalone resource f
   - Anirban Maity
 - **Coordinator & Tester:** Marc Singer
 
-Check out our repos for the source code of the app, backend infrastructure, and the website.
+## Source code
+This organization hosts all the repos for source code of the app, backend infrastructure, and the website.
+
+## Sponsor
+Our sponsor for this project is **Dr. Tahira Reid Smith**. Huge thanks to her for all the assistance throughout the semester!
 
 ## License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).  
